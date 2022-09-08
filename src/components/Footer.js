@@ -64,7 +64,7 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              Ravnell Landscape 
+              Ravnell Landscape 516-532-4646
               <i class='fab fa-typo3' />
             </Link>
           </div>
