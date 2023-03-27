@@ -64,7 +64,7 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              Ravnell Landscape 516-532-4646 Or 
+              Ravenell Landscape 516-532-4646 Or 
                718-949-7730
               <i class='fab fa-typo3' />
             </Link>
