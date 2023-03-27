@@ -8,7 +8,8 @@ function HeroSection() {
     <div className='hero-container'>
       <video src='/videos/video-1.mp4' autoPlay loop muted />
       <h1>TOP TIER LAWN CARE</h1>
-      <p>What are you waiting for? Call now 516-532-4646</p>
+      <p>What are you waiting for? Give us a call at 718-949-7730 or 347-645-8910</p>
+      <p>We are hiring call 516-532-4646 / 718-949-7730 / 347-645-8910</p>
       <div className='hero-btns'>
         <Button
           className='btns'
